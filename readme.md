@@ -1,6 +1,15 @@
-##Hola! Como estas? Espero que seas muy bienvenido.
-Me llamo Sebastián y estoy formandome como desarrollador web. 
-Actualmente trabajo y conozco las siguientes tecnologías: HTML, CSS y Python.
+# Bienvenido a mis repositorios!
+
+## ¿Qué podes encontrar acá?
+
+¿Como estas? Me llamo **Sebastián** y estoy formándome como desarrollador web. Espero que te sientas bienvenido al sitio, estas en tu casa (virtual, claro). Actualmente me encuentro trabajando con las siguientes tecnologías, que podrás ver a medida que las vaya subiendo:
+* HTML
+* CSS
+* Python
+
+También vas a poder encontrar algunas paginas dedicadas a autores de literatura, algunas páginas con fotos de gatitos y perritos (awww) y algunos ejercicios realizados en python, js o PHP.
+ 
+
 Aquí puedes ver mis proyectos y mis avances
 Tambien puedes visitar mi perfil de LinkedIn
 
