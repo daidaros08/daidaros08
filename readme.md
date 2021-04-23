@@ -7,10 +7,10 @@
 * CSS
 * Python
 
-También vas a poder encontrar algunas paginas dedicadas a autores de literatura, algunas páginas con fotos de gatitos y perritos (awww) y algunos ejercicios realizados en python, js o PHP.
+También vas a poder encontrar algunas paginas dedicadas a autores de literatura, algunas páginas con fotos de gatitos y perritos (awww) y algunos ejercicios realizados en Python, JS o PHP.
  
 
-Aquí puedes ver mis proyectos y mis avances
+[Aquí] (https://daidaros08.github.io/portfolio/) puedes ver mis proyectos y mis avances
 Tambien puedes visitar mi perfil de LinkedIn
 
 
