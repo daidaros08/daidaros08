@@ -9,7 +9,7 @@
 
 También vas a poder encontrar algunas paginas dedicadas a autores de literatura, algunas páginas con fotos de gatitos y perritos :smiling_face_with_three_hearts: y algunos ejercicios realizados en Python, JS o PHP.
 
-* [Aqui](https://daidaros08.github.io/portfolio/) puedes ver mis proyectos y avances (son pocos por el momento, ire subiendo con el tiempo).
+* [Aqui](https://daidaros08.github.io/CV/) puedes ver mis proyectos y avances (son pocos por el momento, ire subiendo con el tiempo).
 * Si quieres también puedes visitar mi perfil de **[LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-cabrera-015242a8/)**.
 
 
