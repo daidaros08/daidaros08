@@ -21,4 +21,4 @@ Te cuento, estoy estudiando la carrera de Letras en una UNNE, me falta poco para
 ### Me gusta...
 * Los idiomas y lenguajes: ingrese a Letras porque me gustaban las lenguas, sé **Ingles** y un *poquitito* de Francés. Ahora estudio el lenguaje de las maquinas para ver si podemos evitar la **rebelión**.
 * Disfruto mucho del cine de culto, aunque no exclusivamente, la ciencia ficción y los documentales.
-* Amo la bicicleta, por suerte vivo en una ciudad que tiene paisajes hermosos, una costanera donde pedalear y un río que te roba el aliento.
+
